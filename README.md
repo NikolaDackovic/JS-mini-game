@@ -25,7 +25,4 @@ A simple, interactive two-player dice game built with vanilla JavaScript, HTML, 
 - JavaScript (ES6)
 
 ## How to Run
-
-[1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/pig-game-js.git](https://nikoladackovic.github.io/JS-mini-game/)
+   (https://nikoladackovic.github.io/JS-mini-game/)
